@@ -1,0 +1,7 @@
+{"name":"fs.default.name"}
+{"value":"hdfs://localhost:9000"}
+{"name":"Namenode"}
+{"value":"hdfs:50070"}
+{"name":"Job Tracker"}
+{"value":"hdfs:50030"}
+{}
